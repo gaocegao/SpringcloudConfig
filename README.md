@@ -1,2 +1,0 @@
-＃SpringcloudConfig
-测试
